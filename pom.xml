@@ -30,7 +30,7 @@ under the License.
   <artifactId>nar-pcre</artifactId>
   <packaging>nar</packaging>
 
-  <name>SWIG</name>
+  <name>PCRE</name>
   <!-- NOTE: change also in configuration -->
   <version>8.10-1-SNAPSHOT</version>
   <description>
